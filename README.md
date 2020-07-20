@@ -1,24 +1,9 @@
 # Twitter-Sentiment-Analysis
 Stream the live tweets using twitter API and classifying the tweets on the basis of the sentiments expressed in the tweet:positive,negative or neutral.
-				
-
-
-
-
-
-			     
 TWITTER DATA &
- SENTIMENT ANALYSIS
-			
- Name: Anshika Mittal
+SENTIMENT ANALYSIS
+Name: Anshika Mittal
 University Roll No: 2012505
-
-
-
-
-
-
-
 Problem Statement:
 Collection of twitter data and analysing the sentiments expressed in the tweet whether it is positive, negative or neutral.
 
